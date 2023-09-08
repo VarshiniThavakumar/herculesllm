@@ -1,4 +1,6 @@
 pip install sqlalchemy
+pip install pandas
+pip install streamlit
 import streamlit as st
 import pandas as pd
 from sqlalchemy import create_engine
